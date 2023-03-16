@@ -111,7 +111,7 @@ a[data-bs-toggle="collapse"] {
     position: relative;
 }
 
-.dropdown-toggle::after {
+.list-unstyled.components li .dropdown-toggle::after {
     display: block;
     position: absolute;
     top: 50%;
